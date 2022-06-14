@@ -1,0 +1,15 @@
+E:\Programing\GitHub\Lab-Methods\07. Repeat String\bin\Debug\net5.0\07. Repeat String.exe
+E:\Programing\GitHub\Lab-Methods\07. Repeat String\bin\Debug\net5.0\07. Repeat String.deps.json
+E:\Programing\GitHub\Lab-Methods\07. Repeat String\bin\Debug\net5.0\07. Repeat String.runtimeconfig.json
+E:\Programing\GitHub\Lab-Methods\07. Repeat String\bin\Debug\net5.0\07. Repeat String.runtimeconfig.dev.json
+E:\Programing\GitHub\Lab-Methods\07. Repeat String\bin\Debug\net5.0\07. Repeat String.dll
+E:\Programing\GitHub\Lab-Methods\07. Repeat String\bin\Debug\net5.0\ref\07. Repeat String.dll
+E:\Programing\GitHub\Lab-Methods\07. Repeat String\bin\Debug\net5.0\07. Repeat String.pdb
+E:\Programing\GitHub\Lab-Methods\07. Repeat String\obj\Debug\net5.0\07. Repeat String.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programing\GitHub\Lab-Methods\07. Repeat String\obj\Debug\net5.0\07. Repeat String.AssemblyInfoInputs.cache
+E:\Programing\GitHub\Lab-Methods\07. Repeat String\obj\Debug\net5.0\07. Repeat String.AssemblyInfo.cs
+E:\Programing\GitHub\Lab-Methods\07. Repeat String\obj\Debug\net5.0\07. Repeat String.csproj.CoreCompileInputs.cache
+E:\Programing\GitHub\Lab-Methods\07. Repeat String\obj\Debug\net5.0\07. Repeat String.dll
+E:\Programing\GitHub\Lab-Methods\07. Repeat String\obj\Debug\net5.0\ref\07. Repeat String.dll
+E:\Programing\GitHub\Lab-Methods\07. Repeat String\obj\Debug\net5.0\07. Repeat String.pdb
+E:\Programing\GitHub\Lab-Methods\07. Repeat String\obj\Debug\net5.0\07. Repeat String.genruntimeconfig.cache

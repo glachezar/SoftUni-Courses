@@ -1,0 +1,15 @@
+E:\Programing\GitHub\Methods - Exercise\07. NxN Matrix\bin\Debug\net5.0\07. NxN Matrix.exe
+E:\Programing\GitHub\Methods - Exercise\07. NxN Matrix\bin\Debug\net5.0\07. NxN Matrix.deps.json
+E:\Programing\GitHub\Methods - Exercise\07. NxN Matrix\bin\Debug\net5.0\07. NxN Matrix.runtimeconfig.json
+E:\Programing\GitHub\Methods - Exercise\07. NxN Matrix\bin\Debug\net5.0\07. NxN Matrix.runtimeconfig.dev.json
+E:\Programing\GitHub\Methods - Exercise\07. NxN Matrix\bin\Debug\net5.0\07. NxN Matrix.dll
+E:\Programing\GitHub\Methods - Exercise\07. NxN Matrix\bin\Debug\net5.0\ref\07. NxN Matrix.dll
+E:\Programing\GitHub\Methods - Exercise\07. NxN Matrix\bin\Debug\net5.0\07. NxN Matrix.pdb
+E:\Programing\GitHub\Methods - Exercise\07. NxN Matrix\obj\Debug\net5.0\07. NxN Matrix.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programing\GitHub\Methods - Exercise\07. NxN Matrix\obj\Debug\net5.0\07. NxN Matrix.AssemblyInfoInputs.cache
+E:\Programing\GitHub\Methods - Exercise\07. NxN Matrix\obj\Debug\net5.0\07. NxN Matrix.AssemblyInfo.cs
+E:\Programing\GitHub\Methods - Exercise\07. NxN Matrix\obj\Debug\net5.0\07. NxN Matrix.csproj.CoreCompileInputs.cache
+E:\Programing\GitHub\Methods - Exercise\07. NxN Matrix\obj\Debug\net5.0\07. NxN Matrix.dll
+E:\Programing\GitHub\Methods - Exercise\07. NxN Matrix\obj\Debug\net5.0\ref\07. NxN Matrix.dll
+E:\Programing\GitHub\Methods - Exercise\07. NxN Matrix\obj\Debug\net5.0\07. NxN Matrix.pdb
+E:\Programing\GitHub\Methods - Exercise\07. NxN Matrix\obj\Debug\net5.0\07. NxN Matrix.genruntimeconfig.cache

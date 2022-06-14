@@ -1,0 +1,16 @@
+E:\Programing\GitHub\Lab-Methods\10. Multiply Evens by Odds\bin\Debug\net5.0\10. Multiply Evens by Odds.exe
+E:\Programing\GitHub\Lab-Methods\10. Multiply Evens by Odds\bin\Debug\net5.0\10. Multiply Evens by Odds.deps.json
+E:\Programing\GitHub\Lab-Methods\10. Multiply Evens by Odds\bin\Debug\net5.0\10. Multiply Evens by Odds.runtimeconfig.json
+E:\Programing\GitHub\Lab-Methods\10. Multiply Evens by Odds\bin\Debug\net5.0\10. Multiply Evens by Odds.runtimeconfig.dev.json
+E:\Programing\GitHub\Lab-Methods\10. Multiply Evens by Odds\bin\Debug\net5.0\10. Multiply Evens by Odds.dll
+E:\Programing\GitHub\Lab-Methods\10. Multiply Evens by Odds\bin\Debug\net5.0\ref\10. Multiply Evens by Odds.dll
+E:\Programing\GitHub\Lab-Methods\10. Multiply Evens by Odds\bin\Debug\net5.0\10. Multiply Evens by Odds.pdb
+E:\Programing\GitHub\Lab-Methods\10. Multiply Evens by Odds\obj\Debug\net5.0\10. Multiply Evens by Odds.csproj.AssemblyReference.cache
+E:\Programing\GitHub\Lab-Methods\10. Multiply Evens by Odds\obj\Debug\net5.0\10. Multiply Evens by Odds.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programing\GitHub\Lab-Methods\10. Multiply Evens by Odds\obj\Debug\net5.0\10. Multiply Evens by Odds.AssemblyInfoInputs.cache
+E:\Programing\GitHub\Lab-Methods\10. Multiply Evens by Odds\obj\Debug\net5.0\10. Multiply Evens by Odds.AssemblyInfo.cs
+E:\Programing\GitHub\Lab-Methods\10. Multiply Evens by Odds\obj\Debug\net5.0\10. Multiply Evens by Odds.csproj.CoreCompileInputs.cache
+E:\Programing\GitHub\Lab-Methods\10. Multiply Evens by Odds\obj\Debug\net5.0\10. Multiply Evens by Odds.dll
+E:\Programing\GitHub\Lab-Methods\10. Multiply Evens by Odds\obj\Debug\net5.0\ref\10. Multiply Evens by Odds.dll
+E:\Programing\GitHub\Lab-Methods\10. Multiply Evens by Odds\obj\Debug\net5.0\10. Multiply Evens by Odds.pdb
+E:\Programing\GitHub\Lab-Methods\10. Multiply Evens by Odds\obj\Debug\net5.0\10. Multiply Evens by Odds.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+E:\Programing\GitHub\Methods - Exercise\11. Array Manipulator\bin\Debug\net5.0\11. Array Manipulator.exe
+E:\Programing\GitHub\Methods - Exercise\11. Array Manipulator\bin\Debug\net5.0\11. Array Manipulator.deps.json
+E:\Programing\GitHub\Methods - Exercise\11. Array Manipulator\bin\Debug\net5.0\11. Array Manipulator.runtimeconfig.json
+E:\Programing\GitHub\Methods - Exercise\11. Array Manipulator\bin\Debug\net5.0\11. Array Manipulator.runtimeconfig.dev.json
+E:\Programing\GitHub\Methods - Exercise\11. Array Manipulator\bin\Debug\net5.0\11. Array Manipulator.dll
+E:\Programing\GitHub\Methods - Exercise\11. Array Manipulator\bin\Debug\net5.0\ref\11. Array Manipulator.dll
+E:\Programing\GitHub\Methods - Exercise\11. Array Manipulator\bin\Debug\net5.0\11. Array Manipulator.pdb
+E:\Programing\GitHub\Methods - Exercise\11. Array Manipulator\obj\Debug\net5.0\11. Array Manipulator.csproj.AssemblyReference.cache
+E:\Programing\GitHub\Methods - Exercise\11. Array Manipulator\obj\Debug\net5.0\11. Array Manipulator.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programing\GitHub\Methods - Exercise\11. Array Manipulator\obj\Debug\net5.0\11. Array Manipulator.AssemblyInfoInputs.cache
+E:\Programing\GitHub\Methods - Exercise\11. Array Manipulator\obj\Debug\net5.0\11. Array Manipulator.AssemblyInfo.cs
+E:\Programing\GitHub\Methods - Exercise\11. Array Manipulator\obj\Debug\net5.0\11. Array Manipulator.csproj.CoreCompileInputs.cache
+E:\Programing\GitHub\Methods - Exercise\11. Array Manipulator\obj\Debug\net5.0\11. Array Manipulator.dll
+E:\Programing\GitHub\Methods - Exercise\11. Array Manipulator\obj\Debug\net5.0\ref\11. Array Manipulator.dll
+E:\Programing\GitHub\Methods - Exercise\11. Array Manipulator\obj\Debug\net5.0\11. Array Manipulator.pdb
+E:\Programing\GitHub\Methods - Exercise\11. Array Manipulator\obj\Debug\net5.0\11. Array Manipulator.genruntimeconfig.cache

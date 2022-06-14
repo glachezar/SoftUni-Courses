@@ -1,0 +1,16 @@
+E:\Programing\GitHub\Lab-Methods\11. Math operations\bin\Debug\net5.0\11. Math operations.exe
+E:\Programing\GitHub\Lab-Methods\11. Math operations\bin\Debug\net5.0\11. Math operations.deps.json
+E:\Programing\GitHub\Lab-Methods\11. Math operations\bin\Debug\net5.0\11. Math operations.runtimeconfig.json
+E:\Programing\GitHub\Lab-Methods\11. Math operations\bin\Debug\net5.0\11. Math operations.runtimeconfig.dev.json
+E:\Programing\GitHub\Lab-Methods\11. Math operations\bin\Debug\net5.0\11. Math operations.dll
+E:\Programing\GitHub\Lab-Methods\11. Math operations\bin\Debug\net5.0\ref\11. Math operations.dll
+E:\Programing\GitHub\Lab-Methods\11. Math operations\bin\Debug\net5.0\11. Math operations.pdb
+E:\Programing\GitHub\Lab-Methods\11. Math operations\obj\Debug\net5.0\11. Math operations.csproj.AssemblyReference.cache
+E:\Programing\GitHub\Lab-Methods\11. Math operations\obj\Debug\net5.0\11. Math operations.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programing\GitHub\Lab-Methods\11. Math operations\obj\Debug\net5.0\11. Math operations.AssemblyInfoInputs.cache
+E:\Programing\GitHub\Lab-Methods\11. Math operations\obj\Debug\net5.0\11. Math operations.AssemblyInfo.cs
+E:\Programing\GitHub\Lab-Methods\11. Math operations\obj\Debug\net5.0\11. Math operations.csproj.CoreCompileInputs.cache
+E:\Programing\GitHub\Lab-Methods\11. Math operations\obj\Debug\net5.0\11. Math operations.dll
+E:\Programing\GitHub\Lab-Methods\11. Math operations\obj\Debug\net5.0\ref\11. Math operations.dll
+E:\Programing\GitHub\Lab-Methods\11. Math operations\obj\Debug\net5.0\11. Math operations.pdb
+E:\Programing\GitHub\Lab-Methods\11. Math operations\obj\Debug\net5.0\11. Math operations.genruntimeconfig.cache
