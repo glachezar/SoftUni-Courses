@@ -1,0 +1,16 @@
+E:\Programing\GitHub\Methods - Exercise\10. Top Number\bin\Debug\net5.0\10. Top Number.exe
+E:\Programing\GitHub\Methods - Exercise\10. Top Number\bin\Debug\net5.0\10. Top Number.deps.json
+E:\Programing\GitHub\Methods - Exercise\10. Top Number\bin\Debug\net5.0\10. Top Number.runtimeconfig.json
+E:\Programing\GitHub\Methods - Exercise\10. Top Number\bin\Debug\net5.0\10. Top Number.runtimeconfig.dev.json
+E:\Programing\GitHub\Methods - Exercise\10. Top Number\bin\Debug\net5.0\10. Top Number.dll
+E:\Programing\GitHub\Methods - Exercise\10. Top Number\bin\Debug\net5.0\ref\10. Top Number.dll
+E:\Programing\GitHub\Methods - Exercise\10. Top Number\bin\Debug\net5.0\10. Top Number.pdb
+E:\Programing\GitHub\Methods - Exercise\10. Top Number\obj\Debug\net5.0\10. Top Number.csproj.AssemblyReference.cache
+E:\Programing\GitHub\Methods - Exercise\10. Top Number\obj\Debug\net5.0\10. Top Number.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programing\GitHub\Methods - Exercise\10. Top Number\obj\Debug\net5.0\10. Top Number.AssemblyInfoInputs.cache
+E:\Programing\GitHub\Methods - Exercise\10. Top Number\obj\Debug\net5.0\10. Top Number.AssemblyInfo.cs
+E:\Programing\GitHub\Methods - Exercise\10. Top Number\obj\Debug\net5.0\10. Top Number.csproj.CoreCompileInputs.cache
+E:\Programing\GitHub\Methods - Exercise\10. Top Number\obj\Debug\net5.0\10. Top Number.dll
+E:\Programing\GitHub\Methods - Exercise\10. Top Number\obj\Debug\net5.0\ref\10. Top Number.dll
+E:\Programing\GitHub\Methods - Exercise\10. Top Number\obj\Debug\net5.0\10. Top Number.pdb
+E:\Programing\GitHub\Methods - Exercise\10. Top Number\obj\Debug\net5.0\10. Top Number.genruntimeconfig.cache

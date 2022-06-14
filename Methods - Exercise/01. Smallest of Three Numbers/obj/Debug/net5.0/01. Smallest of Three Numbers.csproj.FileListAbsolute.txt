@@ -1,0 +1,16 @@
+E:\Programing\GitHub\Methods - Exercise\01. Smallest of Three Numbers\bin\Debug\net5.0\01. Smallest of Three Numbers.exe
+E:\Programing\GitHub\Methods - Exercise\01. Smallest of Three Numbers\bin\Debug\net5.0\01. Smallest of Three Numbers.deps.json
+E:\Programing\GitHub\Methods - Exercise\01. Smallest of Three Numbers\bin\Debug\net5.0\01. Smallest of Three Numbers.runtimeconfig.json
+E:\Programing\GitHub\Methods - Exercise\01. Smallest of Three Numbers\bin\Debug\net5.0\01. Smallest of Three Numbers.runtimeconfig.dev.json
+E:\Programing\GitHub\Methods - Exercise\01. Smallest of Three Numbers\bin\Debug\net5.0\01. Smallest of Three Numbers.dll
+E:\Programing\GitHub\Methods - Exercise\01. Smallest of Three Numbers\bin\Debug\net5.0\ref\01. Smallest of Three Numbers.dll
+E:\Programing\GitHub\Methods - Exercise\01. Smallest of Three Numbers\bin\Debug\net5.0\01. Smallest of Three Numbers.pdb
+E:\Programing\GitHub\Methods - Exercise\01. Smallest of Three Numbers\obj\Debug\net5.0\01. Smallest of Three Numbers.csproj.AssemblyReference.cache
+E:\Programing\GitHub\Methods - Exercise\01. Smallest of Three Numbers\obj\Debug\net5.0\01. Smallest of Three Numbers.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programing\GitHub\Methods - Exercise\01. Smallest of Three Numbers\obj\Debug\net5.0\01. Smallest of Three Numbers.AssemblyInfoInputs.cache
+E:\Programing\GitHub\Methods - Exercise\01. Smallest of Three Numbers\obj\Debug\net5.0\01. Smallest of Three Numbers.AssemblyInfo.cs
+E:\Programing\GitHub\Methods - Exercise\01. Smallest of Three Numbers\obj\Debug\net5.0\01. Smallest of Three Numbers.csproj.CoreCompileInputs.cache
+E:\Programing\GitHub\Methods - Exercise\01. Smallest of Three Numbers\obj\Debug\net5.0\01. Smallest of Three Numbers.dll
+E:\Programing\GitHub\Methods - Exercise\01. Smallest of Three Numbers\obj\Debug\net5.0\ref\01. Smallest of Three Numbers.dll
+E:\Programing\GitHub\Methods - Exercise\01. Smallest of Three Numbers\obj\Debug\net5.0\01. Smallest of Three Numbers.pdb
+E:\Programing\GitHub\Methods - Exercise\01. Smallest of Three Numbers\obj\Debug\net5.0\01. Smallest of Three Numbers.genruntimeconfig.cache

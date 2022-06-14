@@ -1,0 +1,15 @@
+E:\Programing\GitHub\Lab-Methods\06. Calculate Rectangle Area\bin\Debug\net5.0\06. Calculate Rectangle Area.exe
+E:\Programing\GitHub\Lab-Methods\06. Calculate Rectangle Area\bin\Debug\net5.0\06. Calculate Rectangle Area.deps.json
+E:\Programing\GitHub\Lab-Methods\06. Calculate Rectangle Area\bin\Debug\net5.0\06. Calculate Rectangle Area.runtimeconfig.json
+E:\Programing\GitHub\Lab-Methods\06. Calculate Rectangle Area\bin\Debug\net5.0\06. Calculate Rectangle Area.runtimeconfig.dev.json
+E:\Programing\GitHub\Lab-Methods\06. Calculate Rectangle Area\bin\Debug\net5.0\06. Calculate Rectangle Area.dll
+E:\Programing\GitHub\Lab-Methods\06. Calculate Rectangle Area\bin\Debug\net5.0\ref\06. Calculate Rectangle Area.dll
+E:\Programing\GitHub\Lab-Methods\06. Calculate Rectangle Area\bin\Debug\net5.0\06. Calculate Rectangle Area.pdb
+E:\Programing\GitHub\Lab-Methods\06. Calculate Rectangle Area\obj\Debug\net5.0\06. Calculate Rectangle Area.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programing\GitHub\Lab-Methods\06. Calculate Rectangle Area\obj\Debug\net5.0\06. Calculate Rectangle Area.AssemblyInfoInputs.cache
+E:\Programing\GitHub\Lab-Methods\06. Calculate Rectangle Area\obj\Debug\net5.0\06. Calculate Rectangle Area.AssemblyInfo.cs
+E:\Programing\GitHub\Lab-Methods\06. Calculate Rectangle Area\obj\Debug\net5.0\06. Calculate Rectangle Area.csproj.CoreCompileInputs.cache
+E:\Programing\GitHub\Lab-Methods\06. Calculate Rectangle Area\obj\Debug\net5.0\06. Calculate Rectangle Area.dll
+E:\Programing\GitHub\Lab-Methods\06. Calculate Rectangle Area\obj\Debug\net5.0\ref\06. Calculate Rectangle Area.dll
+E:\Programing\GitHub\Lab-Methods\06. Calculate Rectangle Area\obj\Debug\net5.0\06. Calculate Rectangle Area.pdb
+E:\Programing\GitHub\Lab-Methods\06. Calculate Rectangle Area\obj\Debug\net5.0\06. Calculate Rectangle Area.genruntimeconfig.cache

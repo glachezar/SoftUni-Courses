@@ -1,0 +1,16 @@
+E:\Programing\GitHub\Methods - Exercise\08. Factorial Division\bin\Debug\net5.0\08. Factorial Division.exe
+E:\Programing\GitHub\Methods - Exercise\08. Factorial Division\bin\Debug\net5.0\08. Factorial Division.deps.json
+E:\Programing\GitHub\Methods - Exercise\08. Factorial Division\bin\Debug\net5.0\08. Factorial Division.runtimeconfig.json
+E:\Programing\GitHub\Methods - Exercise\08. Factorial Division\bin\Debug\net5.0\08. Factorial Division.runtimeconfig.dev.json
+E:\Programing\GitHub\Methods - Exercise\08. Factorial Division\bin\Debug\net5.0\08. Factorial Division.dll
+E:\Programing\GitHub\Methods - Exercise\08. Factorial Division\bin\Debug\net5.0\ref\08. Factorial Division.dll
+E:\Programing\GitHub\Methods - Exercise\08. Factorial Division\bin\Debug\net5.0\08. Factorial Division.pdb
+E:\Programing\GitHub\Methods - Exercise\08. Factorial Division\obj\Debug\net5.0\08. Factorial Division.csproj.AssemblyReference.cache
+E:\Programing\GitHub\Methods - Exercise\08. Factorial Division\obj\Debug\net5.0\08. Factorial Division.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programing\GitHub\Methods - Exercise\08. Factorial Division\obj\Debug\net5.0\08. Factorial Division.AssemblyInfoInputs.cache
+E:\Programing\GitHub\Methods - Exercise\08. Factorial Division\obj\Debug\net5.0\08. Factorial Division.AssemblyInfo.cs
+E:\Programing\GitHub\Methods - Exercise\08. Factorial Division\obj\Debug\net5.0\08. Factorial Division.csproj.CoreCompileInputs.cache
+E:\Programing\GitHub\Methods - Exercise\08. Factorial Division\obj\Debug\net5.0\08. Factorial Division.dll
+E:\Programing\GitHub\Methods - Exercise\08. Factorial Division\obj\Debug\net5.0\ref\08. Factorial Division.dll
+E:\Programing\GitHub\Methods - Exercise\08. Factorial Division\obj\Debug\net5.0\08. Factorial Division.pdb
+E:\Programing\GitHub\Methods - Exercise\08. Factorial Division\obj\Debug\net5.0\08. Factorial Division.genruntimeconfig.cache

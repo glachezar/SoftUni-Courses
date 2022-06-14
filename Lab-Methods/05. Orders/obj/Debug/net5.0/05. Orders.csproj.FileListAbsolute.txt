@@ -1,0 +1,16 @@
+E:\Programing\GitHub\Lab-Methods\05. Orders\bin\Debug\net5.0\05. Orders.exe
+E:\Programing\GitHub\Lab-Methods\05. Orders\bin\Debug\net5.0\05. Orders.deps.json
+E:\Programing\GitHub\Lab-Methods\05. Orders\bin\Debug\net5.0\05. Orders.runtimeconfig.json
+E:\Programing\GitHub\Lab-Methods\05. Orders\bin\Debug\net5.0\05. Orders.runtimeconfig.dev.json
+E:\Programing\GitHub\Lab-Methods\05. Orders\bin\Debug\net5.0\05. Orders.dll
+E:\Programing\GitHub\Lab-Methods\05. Orders\bin\Debug\net5.0\ref\05. Orders.dll
+E:\Programing\GitHub\Lab-Methods\05. Orders\bin\Debug\net5.0\05. Orders.pdb
+E:\Programing\GitHub\Lab-Methods\05. Orders\obj\Debug\net5.0\05. Orders.csproj.AssemblyReference.cache
+E:\Programing\GitHub\Lab-Methods\05. Orders\obj\Debug\net5.0\05. Orders.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programing\GitHub\Lab-Methods\05. Orders\obj\Debug\net5.0\05. Orders.AssemblyInfoInputs.cache
+E:\Programing\GitHub\Lab-Methods\05. Orders\obj\Debug\net5.0\05. Orders.AssemblyInfo.cs
+E:\Programing\GitHub\Lab-Methods\05. Orders\obj\Debug\net5.0\05. Orders.csproj.CoreCompileInputs.cache
+E:\Programing\GitHub\Lab-Methods\05. Orders\obj\Debug\net5.0\05. Orders.dll
+E:\Programing\GitHub\Lab-Methods\05. Orders\obj\Debug\net5.0\ref\05. Orders.dll
+E:\Programing\GitHub\Lab-Methods\05. Orders\obj\Debug\net5.0\05. Orders.pdb
+E:\Programing\GitHub\Lab-Methods\05. Orders\obj\Debug\net5.0\05. Orders.genruntimeconfig.cache

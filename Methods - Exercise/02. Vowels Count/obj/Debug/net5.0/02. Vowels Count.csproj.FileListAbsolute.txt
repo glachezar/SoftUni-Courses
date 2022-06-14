@@ -1,0 +1,16 @@
+E:\Programing\GitHub\Methods - Exercise\02. Vowels Count\bin\Debug\net5.0\02. Vowels Count.exe
+E:\Programing\GitHub\Methods - Exercise\02. Vowels Count\bin\Debug\net5.0\02. Vowels Count.deps.json
+E:\Programing\GitHub\Methods - Exercise\02. Vowels Count\bin\Debug\net5.0\02. Vowels Count.runtimeconfig.json
+E:\Programing\GitHub\Methods - Exercise\02. Vowels Count\bin\Debug\net5.0\02. Vowels Count.runtimeconfig.dev.json
+E:\Programing\GitHub\Methods - Exercise\02. Vowels Count\bin\Debug\net5.0\02. Vowels Count.dll
+E:\Programing\GitHub\Methods - Exercise\02. Vowels Count\bin\Debug\net5.0\ref\02. Vowels Count.dll
+E:\Programing\GitHub\Methods - Exercise\02. Vowels Count\bin\Debug\net5.0\02. Vowels Count.pdb
+E:\Programing\GitHub\Methods - Exercise\02. Vowels Count\obj\Debug\net5.0\02. Vowels Count.csproj.AssemblyReference.cache
+E:\Programing\GitHub\Methods - Exercise\02. Vowels Count\obj\Debug\net5.0\02. Vowels Count.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programing\GitHub\Methods - Exercise\02. Vowels Count\obj\Debug\net5.0\02. Vowels Count.AssemblyInfoInputs.cache
+E:\Programing\GitHub\Methods - Exercise\02. Vowels Count\obj\Debug\net5.0\02. Vowels Count.AssemblyInfo.cs
+E:\Programing\GitHub\Methods - Exercise\02. Vowels Count\obj\Debug\net5.0\02. Vowels Count.csproj.CoreCompileInputs.cache
+E:\Programing\GitHub\Methods - Exercise\02. Vowels Count\obj\Debug\net5.0\02. Vowels Count.dll
+E:\Programing\GitHub\Methods - Exercise\02. Vowels Count\obj\Debug\net5.0\ref\02. Vowels Count.dll
+E:\Programing\GitHub\Methods - Exercise\02. Vowels Count\obj\Debug\net5.0\02. Vowels Count.pdb
+E:\Programing\GitHub\Methods - Exercise\02. Vowels Count\obj\Debug\net5.0\02. Vowels Count.genruntimeconfig.cache
