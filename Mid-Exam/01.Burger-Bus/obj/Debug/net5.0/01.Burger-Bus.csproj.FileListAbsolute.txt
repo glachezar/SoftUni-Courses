@@ -1,0 +1,16 @@
+D:\Programing\SoftUni-Courses\Mid-Exam\01.Burger-Bus\bin\Debug\net5.0\01.Burger-Bus.exe
+D:\Programing\SoftUni-Courses\Mid-Exam\01.Burger-Bus\bin\Debug\net5.0\01.Burger-Bus.deps.json
+D:\Programing\SoftUni-Courses\Mid-Exam\01.Burger-Bus\bin\Debug\net5.0\01.Burger-Bus.runtimeconfig.json
+D:\Programing\SoftUni-Courses\Mid-Exam\01.Burger-Bus\bin\Debug\net5.0\01.Burger-Bus.runtimeconfig.dev.json
+D:\Programing\SoftUni-Courses\Mid-Exam\01.Burger-Bus\bin\Debug\net5.0\01.Burger-Bus.dll
+D:\Programing\SoftUni-Courses\Mid-Exam\01.Burger-Bus\bin\Debug\net5.0\01.Burger-Bus.pdb
+D:\Programing\SoftUni-Courses\Mid-Exam\01.Burger-Bus\obj\Debug\net5.0\01.Burger-Bus.csproj.AssemblyReference.cache
+D:\Programing\SoftUni-Courses\Mid-Exam\01.Burger-Bus\obj\Debug\net5.0\01.Burger-Bus.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programing\SoftUni-Courses\Mid-Exam\01.Burger-Bus\obj\Debug\net5.0\01.Burger-Bus.AssemblyInfoInputs.cache
+D:\Programing\SoftUni-Courses\Mid-Exam\01.Burger-Bus\obj\Debug\net5.0\01.Burger-Bus.AssemblyInfo.cs
+D:\Programing\SoftUni-Courses\Mid-Exam\01.Burger-Bus\obj\Debug\net5.0\01.Burger-Bus.csproj.CoreCompileInputs.cache
+D:\Programing\SoftUni-Courses\Mid-Exam\01.Burger-Bus\obj\Debug\net5.0\01.Burger-Bus.dll
+D:\Programing\SoftUni-Courses\Mid-Exam\01.Burger-Bus\obj\Debug\net5.0\refint\01.Burger-Bus.dll
+D:\Programing\SoftUni-Courses\Mid-Exam\01.Burger-Bus\obj\Debug\net5.0\01.Burger-Bus.pdb
+D:\Programing\SoftUni-Courses\Mid-Exam\01.Burger-Bus\obj\Debug\net5.0\01.Burger-Bus.genruntimeconfig.cache
+D:\Programing\SoftUni-Courses\Mid-Exam\01.Burger-Bus\obj\Debug\net5.0\ref\01.Burger-Bus.dll

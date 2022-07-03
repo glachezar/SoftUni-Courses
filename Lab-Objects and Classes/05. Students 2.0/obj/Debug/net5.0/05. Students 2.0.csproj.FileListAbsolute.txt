@@ -1,0 +1,16 @@
+D:\Programing\SoftUni-Courses\Lab-Objects and Classes\05. Students 2.0\bin\Debug\net5.0\05. Students 2.0.exe
+D:\Programing\SoftUni-Courses\Lab-Objects and Classes\05. Students 2.0\bin\Debug\net5.0\05. Students 2.0.deps.json
+D:\Programing\SoftUni-Courses\Lab-Objects and Classes\05. Students 2.0\bin\Debug\net5.0\05. Students 2.0.runtimeconfig.json
+D:\Programing\SoftUni-Courses\Lab-Objects and Classes\05. Students 2.0\bin\Debug\net5.0\05. Students 2.0.runtimeconfig.dev.json
+D:\Programing\SoftUni-Courses\Lab-Objects and Classes\05. Students 2.0\bin\Debug\net5.0\05. Students 2.0.dll
+D:\Programing\SoftUni-Courses\Lab-Objects and Classes\05. Students 2.0\bin\Debug\net5.0\05. Students 2.0.pdb
+D:\Programing\SoftUni-Courses\Lab-Objects and Classes\05. Students 2.0\obj\Debug\net5.0\05. Students 2.0.csproj.AssemblyReference.cache
+D:\Programing\SoftUni-Courses\Lab-Objects and Classes\05. Students 2.0\obj\Debug\net5.0\05. Students 2.0.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programing\SoftUni-Courses\Lab-Objects and Classes\05. Students 2.0\obj\Debug\net5.0\05. Students 2.0.AssemblyInfoInputs.cache
+D:\Programing\SoftUni-Courses\Lab-Objects and Classes\05. Students 2.0\obj\Debug\net5.0\05. Students 2.0.AssemblyInfo.cs
+D:\Programing\SoftUni-Courses\Lab-Objects and Classes\05. Students 2.0\obj\Debug\net5.0\05. Students 2.0.csproj.CoreCompileInputs.cache
+D:\Programing\SoftUni-Courses\Lab-Objects and Classes\05. Students 2.0\obj\Debug\net5.0\05. Students 2.0.dll
+D:\Programing\SoftUni-Courses\Lab-Objects and Classes\05. Students 2.0\obj\Debug\net5.0\refint\05. Students 2.0.dll
+D:\Programing\SoftUni-Courses\Lab-Objects and Classes\05. Students 2.0\obj\Debug\net5.0\05. Students 2.0.pdb
+D:\Programing\SoftUni-Courses\Lab-Objects and Classes\05. Students 2.0\obj\Debug\net5.0\05. Students 2.0.genruntimeconfig.cache
+D:\Programing\SoftUni-Courses\Lab-Objects and Classes\05. Students 2.0\obj\Debug\net5.0\ref\05. Students 2.0.dll

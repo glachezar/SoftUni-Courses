@@ -1,0 +1,16 @@
+D:\Programing\SoftUni-Courses\Mid-Exam\02.Numbers\bin\Debug\net5.0\02.Numbers.exe
+D:\Programing\SoftUni-Courses\Mid-Exam\02.Numbers\bin\Debug\net5.0\02.Numbers.deps.json
+D:\Programing\SoftUni-Courses\Mid-Exam\02.Numbers\bin\Debug\net5.0\02.Numbers.runtimeconfig.json
+D:\Programing\SoftUni-Courses\Mid-Exam\02.Numbers\bin\Debug\net5.0\02.Numbers.runtimeconfig.dev.json
+D:\Programing\SoftUni-Courses\Mid-Exam\02.Numbers\bin\Debug\net5.0\02.Numbers.dll
+D:\Programing\SoftUni-Courses\Mid-Exam\02.Numbers\bin\Debug\net5.0\02.Numbers.pdb
+D:\Programing\SoftUni-Courses\Mid-Exam\02.Numbers\obj\Debug\net5.0\02.Numbers.csproj.AssemblyReference.cache
+D:\Programing\SoftUni-Courses\Mid-Exam\02.Numbers\obj\Debug\net5.0\02.Numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programing\SoftUni-Courses\Mid-Exam\02.Numbers\obj\Debug\net5.0\02.Numbers.AssemblyInfoInputs.cache
+D:\Programing\SoftUni-Courses\Mid-Exam\02.Numbers\obj\Debug\net5.0\02.Numbers.AssemblyInfo.cs
+D:\Programing\SoftUni-Courses\Mid-Exam\02.Numbers\obj\Debug\net5.0\02.Numbers.csproj.CoreCompileInputs.cache
+D:\Programing\SoftUni-Courses\Mid-Exam\02.Numbers\obj\Debug\net5.0\02.Numbers.dll
+D:\Programing\SoftUni-Courses\Mid-Exam\02.Numbers\obj\Debug\net5.0\refint\02.Numbers.dll
+D:\Programing\SoftUni-Courses\Mid-Exam\02.Numbers\obj\Debug\net5.0\02.Numbers.pdb
+D:\Programing\SoftUni-Courses\Mid-Exam\02.Numbers\obj\Debug\net5.0\02.Numbers.genruntimeconfig.cache
+D:\Programing\SoftUni-Courses\Mid-Exam\02.Numbers\obj\Debug\net5.0\ref\02.Numbers.dll

@@ -1,0 +1,16 @@
+D:\Programing\SoftUni-Courses\Mid-Exam\03.TheAngryCat\bin\Debug\net5.0\03.TheAngryCat.exe
+D:\Programing\SoftUni-Courses\Mid-Exam\03.TheAngryCat\bin\Debug\net5.0\03.TheAngryCat.deps.json
+D:\Programing\SoftUni-Courses\Mid-Exam\03.TheAngryCat\bin\Debug\net5.0\03.TheAngryCat.runtimeconfig.json
+D:\Programing\SoftUni-Courses\Mid-Exam\03.TheAngryCat\bin\Debug\net5.0\03.TheAngryCat.runtimeconfig.dev.json
+D:\Programing\SoftUni-Courses\Mid-Exam\03.TheAngryCat\bin\Debug\net5.0\03.TheAngryCat.dll
+D:\Programing\SoftUni-Courses\Mid-Exam\03.TheAngryCat\bin\Debug\net5.0\03.TheAngryCat.pdb
+D:\Programing\SoftUni-Courses\Mid-Exam\03.TheAngryCat\obj\Debug\net5.0\03.TheAngryCat.csproj.AssemblyReference.cache
+D:\Programing\SoftUni-Courses\Mid-Exam\03.TheAngryCat\obj\Debug\net5.0\03.TheAngryCat.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programing\SoftUni-Courses\Mid-Exam\03.TheAngryCat\obj\Debug\net5.0\03.TheAngryCat.AssemblyInfoInputs.cache
+D:\Programing\SoftUni-Courses\Mid-Exam\03.TheAngryCat\obj\Debug\net5.0\03.TheAngryCat.AssemblyInfo.cs
+D:\Programing\SoftUni-Courses\Mid-Exam\03.TheAngryCat\obj\Debug\net5.0\03.TheAngryCat.csproj.CoreCompileInputs.cache
+D:\Programing\SoftUni-Courses\Mid-Exam\03.TheAngryCat\obj\Debug\net5.0\03.TheAngryCat.dll
+D:\Programing\SoftUni-Courses\Mid-Exam\03.TheAngryCat\obj\Debug\net5.0\refint\03.TheAngryCat.dll
+D:\Programing\SoftUni-Courses\Mid-Exam\03.TheAngryCat\obj\Debug\net5.0\03.TheAngryCat.pdb
+D:\Programing\SoftUni-Courses\Mid-Exam\03.TheAngryCat\obj\Debug\net5.0\03.TheAngryCat.genruntimeconfig.cache
+D:\Programing\SoftUni-Courses\Mid-Exam\03.TheAngryCat\obj\Debug\net5.0\ref\03.TheAngryCat.dll

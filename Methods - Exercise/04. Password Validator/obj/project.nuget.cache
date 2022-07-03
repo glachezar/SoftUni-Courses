@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "UOPjrSBFa0z0b6FFt2X/0lrk5ZpMdrkwET6jRXhaUZsXm0wkUFpwDmgguW4VEQa+wzqZ34SdAHem5yE0xtBZFQ==",
+  "dgSpecHash": "Ut8bq52I+L03ovvUCDbbHvm6ByfUiMs2WBn/G7H9sc+Ve/1paFarKurXcZdqQQI7c5KHHR7XMeIlxEskvlhY6Q==",
   "success": true,
-  "projectFilePath": "E:\\Programing\\GitHub\\Methods - Exercise\\04. Password Validator\\04. Password Validator.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\Programing\\SoftUni-Courses\\Methods - Exercise\\04. Password Validator\\04. Password Validator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LG\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512",
+    "C:\\Users\\LG\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\LG\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\LG\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

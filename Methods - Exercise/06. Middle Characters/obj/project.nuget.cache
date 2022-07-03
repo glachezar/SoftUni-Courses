@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "pbWEsiUV1f6jT0xPuq75LRXZmfO92Gbi56J2SCC1HBXFlX8osDJR012xItkAyeYi0t6/tb9AfdE36FTaxAn4ZA==",
+  "dgSpecHash": "0J+DV1L5wT2jAM4Foj6o2K5tT8bQtnaGdvijAVhcIQ8SFNdgczpyfoZ0VuPVII0zgfvCcXNFDBC+VU92VO4fhw==",
   "success": true,
-  "projectFilePath": "E:\\Programing\\GitHub\\Methods - Exercise\\06. Middle Characters\\06. Middle Characters.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\Programing\\SoftUni-Courses\\Methods - Exercise\\06. Middle Characters\\06. Middle Characters.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LG\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512",
+    "C:\\Users\\LG\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\LG\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\LG\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

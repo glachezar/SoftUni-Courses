@@ -1,0 +1,16 @@
+D:\Programing\SoftUni-Courses\Mid-Exam-Preparation\03. Heart Delivery\bin\Debug\net5.0\03.0. Heart Delivery.exe
+D:\Programing\SoftUni-Courses\Mid-Exam-Preparation\03. Heart Delivery\bin\Debug\net5.0\03.0. Heart Delivery.deps.json
+D:\Programing\SoftUni-Courses\Mid-Exam-Preparation\03. Heart Delivery\bin\Debug\net5.0\03.0. Heart Delivery.runtimeconfig.json
+D:\Programing\SoftUni-Courses\Mid-Exam-Preparation\03. Heart Delivery\bin\Debug\net5.0\03.0. Heart Delivery.runtimeconfig.dev.json
+D:\Programing\SoftUni-Courses\Mid-Exam-Preparation\03. Heart Delivery\bin\Debug\net5.0\03.0. Heart Delivery.dll
+D:\Programing\SoftUni-Courses\Mid-Exam-Preparation\03. Heart Delivery\bin\Debug\net5.0\03.0. Heart Delivery.pdb
+D:\Programing\SoftUni-Courses\Mid-Exam-Preparation\03. Heart Delivery\obj\Debug\net5.0\03.0. Heart Delivery.csproj.AssemblyReference.cache
+D:\Programing\SoftUni-Courses\Mid-Exam-Preparation\03. Heart Delivery\obj\Debug\net5.0\03.0. Heart Delivery.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programing\SoftUni-Courses\Mid-Exam-Preparation\03. Heart Delivery\obj\Debug\net5.0\03.0. Heart Delivery.AssemblyInfoInputs.cache
+D:\Programing\SoftUni-Courses\Mid-Exam-Preparation\03. Heart Delivery\obj\Debug\net5.0\03.0. Heart Delivery.AssemblyInfo.cs
+D:\Programing\SoftUni-Courses\Mid-Exam-Preparation\03. Heart Delivery\obj\Debug\net5.0\03.0. Heart Delivery.csproj.CoreCompileInputs.cache
+D:\Programing\SoftUni-Courses\Mid-Exam-Preparation\03. Heart Delivery\obj\Debug\net5.0\03.0. Heart Delivery.dll
+D:\Programing\SoftUni-Courses\Mid-Exam-Preparation\03. Heart Delivery\obj\Debug\net5.0\refint\03.0. Heart Delivery.dll
+D:\Programing\SoftUni-Courses\Mid-Exam-Preparation\03. Heart Delivery\obj\Debug\net5.0\03.0. Heart Delivery.pdb
+D:\Programing\SoftUni-Courses\Mid-Exam-Preparation\03. Heart Delivery\obj\Debug\net5.0\03.0. Heart Delivery.genruntimeconfig.cache
+D:\Programing\SoftUni-Courses\Mid-Exam-Preparation\03. Heart Delivery\obj\Debug\net5.0\ref\03.0. Heart Delivery.dll

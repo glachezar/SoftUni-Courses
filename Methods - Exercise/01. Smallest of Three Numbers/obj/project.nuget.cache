@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "4H+8TctOPdyANEX898qXXr+xjoaoA3o74q/0IFER82xHfSY3KPQaI3TEkMei/2Toeb9KzFHx3WBqHDu/Us9g1Q==",
+  "dgSpecHash": "7cek7UptDPcaSOvSGq1KeP11MnNcscekJ77ooC8VmpyDW1fKc6NNbUk0nNl4zMQFMNXsqGurq4FTNiWWyGU1NA==",
   "success": true,
-  "projectFilePath": "E:\\Programing\\GitHub\\Methods - Exercise\\01. Smallest of Three Numbers\\01. Smallest of Three Numbers.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\Programing\\SoftUni-Courses\\Methods - Exercise\\01. Smallest of Three Numbers\\01. Smallest of Three Numbers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LG\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512",
+    "C:\\Users\\LG\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\LG\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\LG\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

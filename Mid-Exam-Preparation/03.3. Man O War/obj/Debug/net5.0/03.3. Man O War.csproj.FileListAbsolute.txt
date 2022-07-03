@@ -1,0 +1,16 @@
+D:\Programing\SoftUni-Courses\Mid-Exam-Preparation\03.3. Man O War\bin\Debug\net5.0\03.3. Man O War.exe
+D:\Programing\SoftUni-Courses\Mid-Exam-Preparation\03.3. Man O War\bin\Debug\net5.0\03.3. Man O War.deps.json
+D:\Programing\SoftUni-Courses\Mid-Exam-Preparation\03.3. Man O War\bin\Debug\net5.0\03.3. Man O War.runtimeconfig.json
+D:\Programing\SoftUni-Courses\Mid-Exam-Preparation\03.3. Man O War\bin\Debug\net5.0\03.3. Man O War.runtimeconfig.dev.json
+D:\Programing\SoftUni-Courses\Mid-Exam-Preparation\03.3. Man O War\bin\Debug\net5.0\03.3. Man O War.dll
+D:\Programing\SoftUni-Courses\Mid-Exam-Preparation\03.3. Man O War\bin\Debug\net5.0\03.3. Man O War.pdb
+D:\Programing\SoftUni-Courses\Mid-Exam-Preparation\03.3. Man O War\obj\Debug\net5.0\03.3. Man O War.csproj.AssemblyReference.cache
+D:\Programing\SoftUni-Courses\Mid-Exam-Preparation\03.3. Man O War\obj\Debug\net5.0\03.3. Man O War.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programing\SoftUni-Courses\Mid-Exam-Preparation\03.3. Man O War\obj\Debug\net5.0\03.3. Man O War.AssemblyInfoInputs.cache
+D:\Programing\SoftUni-Courses\Mid-Exam-Preparation\03.3. Man O War\obj\Debug\net5.0\03.3. Man O War.AssemblyInfo.cs
+D:\Programing\SoftUni-Courses\Mid-Exam-Preparation\03.3. Man O War\obj\Debug\net5.0\03.3. Man O War.csproj.CoreCompileInputs.cache
+D:\Programing\SoftUni-Courses\Mid-Exam-Preparation\03.3. Man O War\obj\Debug\net5.0\03.3. Man O War.dll
+D:\Programing\SoftUni-Courses\Mid-Exam-Preparation\03.3. Man O War\obj\Debug\net5.0\refint\03.3. Man O War.dll
+D:\Programing\SoftUni-Courses\Mid-Exam-Preparation\03.3. Man O War\obj\Debug\net5.0\03.3. Man O War.pdb
+D:\Programing\SoftUni-Courses\Mid-Exam-Preparation\03.3. Man O War\obj\Debug\net5.0\03.3. Man O War.genruntimeconfig.cache
+D:\Programing\SoftUni-Courses\Mid-Exam-Preparation\03.3. Man O War\obj\Debug\net5.0\ref\03.3. Man O War.dll
