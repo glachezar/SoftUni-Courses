@@ -1,0 +1,16 @@
+D:\Programing\SoftUni-Courses\Mid-Exam-Preparation\03.2. Memory Game\bin\Debug\net5.0\03.2. Memory Game.exe
+D:\Programing\SoftUni-Courses\Mid-Exam-Preparation\03.2. Memory Game\bin\Debug\net5.0\03.2. Memory Game.deps.json
+D:\Programing\SoftUni-Courses\Mid-Exam-Preparation\03.2. Memory Game\bin\Debug\net5.0\03.2. Memory Game.runtimeconfig.json
+D:\Programing\SoftUni-Courses\Mid-Exam-Preparation\03.2. Memory Game\bin\Debug\net5.0\03.2. Memory Game.runtimeconfig.dev.json
+D:\Programing\SoftUni-Courses\Mid-Exam-Preparation\03.2. Memory Game\bin\Debug\net5.0\03.2. Memory Game.dll
+D:\Programing\SoftUni-Courses\Mid-Exam-Preparation\03.2. Memory Game\bin\Debug\net5.0\03.2. Memory Game.pdb
+D:\Programing\SoftUni-Courses\Mid-Exam-Preparation\03.2. Memory Game\obj\Debug\net5.0\03.2. Memory Game.csproj.AssemblyReference.cache
+D:\Programing\SoftUni-Courses\Mid-Exam-Preparation\03.2. Memory Game\obj\Debug\net5.0\03.2. Memory Game.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programing\SoftUni-Courses\Mid-Exam-Preparation\03.2. Memory Game\obj\Debug\net5.0\03.2. Memory Game.AssemblyInfoInputs.cache
+D:\Programing\SoftUni-Courses\Mid-Exam-Preparation\03.2. Memory Game\obj\Debug\net5.0\03.2. Memory Game.AssemblyInfo.cs
+D:\Programing\SoftUni-Courses\Mid-Exam-Preparation\03.2. Memory Game\obj\Debug\net5.0\03.2. Memory Game.csproj.CoreCompileInputs.cache
+D:\Programing\SoftUni-Courses\Mid-Exam-Preparation\03.2. Memory Game\obj\Debug\net5.0\03.2. Memory Game.dll
+D:\Programing\SoftUni-Courses\Mid-Exam-Preparation\03.2. Memory Game\obj\Debug\net5.0\refint\03.2. Memory Game.dll
+D:\Programing\SoftUni-Courses\Mid-Exam-Preparation\03.2. Memory Game\obj\Debug\net5.0\03.2. Memory Game.pdb
+D:\Programing\SoftUni-Courses\Mid-Exam-Preparation\03.2. Memory Game\obj\Debug\net5.0\03.2. Memory Game.genruntimeconfig.cache
+D:\Programing\SoftUni-Courses\Mid-Exam-Preparation\03.2. Memory Game\obj\Debug\net5.0\ref\03.2. Memory Game.dll

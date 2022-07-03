@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "5aCsp+Qm4ItHfEhGxsHg5s+c5wl5a4G80J1QA6X+dQc205ybKRng677i+Whz9FU5AHs1ohUjAlKuFW5n/r7MMA==",
+  "dgSpecHash": "PlfVLLjUqYpD68tbpQsyJt1X1244OxOGgDE2pssWtbf13LKB1n0gz7Oy93T8WkaH1wbjhpGGebOE89g6iW0k3w==",
   "success": true,
-  "projectFilePath": "E:\\Programing\\GitHub\\Methods - Exercise\\02. Vowels Count\\02. Vowels Count.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\Programing\\SoftUni-Courses\\Methods - Exercise\\02. Vowels Count\\02. Vowels Count.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LG\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512",
+    "C:\\Users\\LG\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\LG\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\LG\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

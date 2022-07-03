@@ -1,0 +1,16 @@
+D:\Programing\SoftUni-Courses\Mid-Exam-Preparation\01.Guinea Pig\bin\Debug\net5.0\01.Guinea Pig.exe
+D:\Programing\SoftUni-Courses\Mid-Exam-Preparation\01.Guinea Pig\bin\Debug\net5.0\01.Guinea Pig.deps.json
+D:\Programing\SoftUni-Courses\Mid-Exam-Preparation\01.Guinea Pig\bin\Debug\net5.0\01.Guinea Pig.runtimeconfig.json
+D:\Programing\SoftUni-Courses\Mid-Exam-Preparation\01.Guinea Pig\bin\Debug\net5.0\01.Guinea Pig.runtimeconfig.dev.json
+D:\Programing\SoftUni-Courses\Mid-Exam-Preparation\01.Guinea Pig\bin\Debug\net5.0\01.Guinea Pig.dll
+D:\Programing\SoftUni-Courses\Mid-Exam-Preparation\01.Guinea Pig\bin\Debug\net5.0\01.Guinea Pig.pdb
+D:\Programing\SoftUni-Courses\Mid-Exam-Preparation\01.Guinea Pig\obj\Debug\net5.0\01.Guinea Pig.csproj.AssemblyReference.cache
+D:\Programing\SoftUni-Courses\Mid-Exam-Preparation\01.Guinea Pig\obj\Debug\net5.0\01.Guinea Pig.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programing\SoftUni-Courses\Mid-Exam-Preparation\01.Guinea Pig\obj\Debug\net5.0\01.Guinea Pig.AssemblyInfoInputs.cache
+D:\Programing\SoftUni-Courses\Mid-Exam-Preparation\01.Guinea Pig\obj\Debug\net5.0\01.Guinea Pig.AssemblyInfo.cs
+D:\Programing\SoftUni-Courses\Mid-Exam-Preparation\01.Guinea Pig\obj\Debug\net5.0\01.Guinea Pig.csproj.CoreCompileInputs.cache
+D:\Programing\SoftUni-Courses\Mid-Exam-Preparation\01.Guinea Pig\obj\Debug\net5.0\01.Guinea Pig.dll
+D:\Programing\SoftUni-Courses\Mid-Exam-Preparation\01.Guinea Pig\obj\Debug\net5.0\refint\01.Guinea Pig.dll
+D:\Programing\SoftUni-Courses\Mid-Exam-Preparation\01.Guinea Pig\obj\Debug\net5.0\01.Guinea Pig.pdb
+D:\Programing\SoftUni-Courses\Mid-Exam-Preparation\01.Guinea Pig\obj\Debug\net5.0\01.Guinea Pig.genruntimeconfig.cache
+D:\Programing\SoftUni-Courses\Mid-Exam-Preparation\01.Guinea Pig\obj\Debug\net5.0\ref\01.Guinea Pig.dll

@@ -1,0 +1,16 @@
+D:\Programing\SoftUni-Courses\Mid-Exam-Preparation\02.2.Shoot for the Win\bin\Debug\net5.0\02.2.Shoot for the Win.exe
+D:\Programing\SoftUni-Courses\Mid-Exam-Preparation\02.2.Shoot for the Win\bin\Debug\net5.0\02.2.Shoot for the Win.deps.json
+D:\Programing\SoftUni-Courses\Mid-Exam-Preparation\02.2.Shoot for the Win\bin\Debug\net5.0\02.2.Shoot for the Win.runtimeconfig.json
+D:\Programing\SoftUni-Courses\Mid-Exam-Preparation\02.2.Shoot for the Win\bin\Debug\net5.0\02.2.Shoot for the Win.runtimeconfig.dev.json
+D:\Programing\SoftUni-Courses\Mid-Exam-Preparation\02.2.Shoot for the Win\bin\Debug\net5.0\02.2.Shoot for the Win.dll
+D:\Programing\SoftUni-Courses\Mid-Exam-Preparation\02.2.Shoot for the Win\bin\Debug\net5.0\02.2.Shoot for the Win.pdb
+D:\Programing\SoftUni-Courses\Mid-Exam-Preparation\02.2.Shoot for the Win\obj\Debug\net5.0\02.2.Shoot for the Win.csproj.AssemblyReference.cache
+D:\Programing\SoftUni-Courses\Mid-Exam-Preparation\02.2.Shoot for the Win\obj\Debug\net5.0\02.2.Shoot for the Win.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programing\SoftUni-Courses\Mid-Exam-Preparation\02.2.Shoot for the Win\obj\Debug\net5.0\02.2.Shoot for the Win.AssemblyInfoInputs.cache
+D:\Programing\SoftUni-Courses\Mid-Exam-Preparation\02.2.Shoot for the Win\obj\Debug\net5.0\02.2.Shoot for the Win.AssemblyInfo.cs
+D:\Programing\SoftUni-Courses\Mid-Exam-Preparation\02.2.Shoot for the Win\obj\Debug\net5.0\02.2.Shoot for the Win.csproj.CoreCompileInputs.cache
+D:\Programing\SoftUni-Courses\Mid-Exam-Preparation\02.2.Shoot for the Win\obj\Debug\net5.0\02.2.Shoot for the Win.dll
+D:\Programing\SoftUni-Courses\Mid-Exam-Preparation\02.2.Shoot for the Win\obj\Debug\net5.0\refint\02.2.Shoot for the Win.dll
+D:\Programing\SoftUni-Courses\Mid-Exam-Preparation\02.2.Shoot for the Win\obj\Debug\net5.0\02.2.Shoot for the Win.pdb
+D:\Programing\SoftUni-Courses\Mid-Exam-Preparation\02.2.Shoot for the Win\obj\Debug\net5.0\02.2.Shoot for the Win.genruntimeconfig.cache
+D:\Programing\SoftUni-Courses\Mid-Exam-Preparation\02.2.Shoot for the Win\obj\Debug\net5.0\ref\02.2.Shoot for the Win.dll

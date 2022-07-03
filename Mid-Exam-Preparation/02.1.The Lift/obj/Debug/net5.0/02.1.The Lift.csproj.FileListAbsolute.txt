@@ -1,0 +1,16 @@
+D:\Programing\SoftUni-Courses\Mid-Exam-Preparation\02.1.The Lift\bin\Debug\net5.0\02.1.The Lift.exe
+D:\Programing\SoftUni-Courses\Mid-Exam-Preparation\02.1.The Lift\bin\Debug\net5.0\02.1.The Lift.deps.json
+D:\Programing\SoftUni-Courses\Mid-Exam-Preparation\02.1.The Lift\bin\Debug\net5.0\02.1.The Lift.runtimeconfig.json
+D:\Programing\SoftUni-Courses\Mid-Exam-Preparation\02.1.The Lift\bin\Debug\net5.0\02.1.The Lift.runtimeconfig.dev.json
+D:\Programing\SoftUni-Courses\Mid-Exam-Preparation\02.1.The Lift\bin\Debug\net5.0\02.1.The Lift.dll
+D:\Programing\SoftUni-Courses\Mid-Exam-Preparation\02.1.The Lift\bin\Debug\net5.0\02.1.The Lift.pdb
+D:\Programing\SoftUni-Courses\Mid-Exam-Preparation\02.1.The Lift\obj\Debug\net5.0\02.1.The Lift.csproj.AssemblyReference.cache
+D:\Programing\SoftUni-Courses\Mid-Exam-Preparation\02.1.The Lift\obj\Debug\net5.0\02.1.The Lift.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programing\SoftUni-Courses\Mid-Exam-Preparation\02.1.The Lift\obj\Debug\net5.0\02.1.The Lift.AssemblyInfoInputs.cache
+D:\Programing\SoftUni-Courses\Mid-Exam-Preparation\02.1.The Lift\obj\Debug\net5.0\02.1.The Lift.AssemblyInfo.cs
+D:\Programing\SoftUni-Courses\Mid-Exam-Preparation\02.1.The Lift\obj\Debug\net5.0\02.1.The Lift.csproj.CoreCompileInputs.cache
+D:\Programing\SoftUni-Courses\Mid-Exam-Preparation\02.1.The Lift\obj\Debug\net5.0\02.1.The Lift.dll
+D:\Programing\SoftUni-Courses\Mid-Exam-Preparation\02.1.The Lift\obj\Debug\net5.0\refint\02.1.The Lift.dll
+D:\Programing\SoftUni-Courses\Mid-Exam-Preparation\02.1.The Lift\obj\Debug\net5.0\02.1.The Lift.pdb
+D:\Programing\SoftUni-Courses\Mid-Exam-Preparation\02.1.The Lift\obj\Debug\net5.0\02.1.The Lift.genruntimeconfig.cache
+D:\Programing\SoftUni-Courses\Mid-Exam-Preparation\02.1.The Lift\obj\Debug\net5.0\ref\02.1.The Lift.dll

@@ -1,0 +1,16 @@
+D:\Programing\SoftUni-Courses\Exercise-Objects and Classes\02. Articles\bin\Debug\net5.0\02. Articles.exe
+D:\Programing\SoftUni-Courses\Exercise-Objects and Classes\02. Articles\bin\Debug\net5.0\02. Articles.deps.json
+D:\Programing\SoftUni-Courses\Exercise-Objects and Classes\02. Articles\bin\Debug\net5.0\02. Articles.runtimeconfig.json
+D:\Programing\SoftUni-Courses\Exercise-Objects and Classes\02. Articles\bin\Debug\net5.0\02. Articles.runtimeconfig.dev.json
+D:\Programing\SoftUni-Courses\Exercise-Objects and Classes\02. Articles\bin\Debug\net5.0\02. Articles.dll
+D:\Programing\SoftUni-Courses\Exercise-Objects and Classes\02. Articles\bin\Debug\net5.0\02. Articles.pdb
+D:\Programing\SoftUni-Courses\Exercise-Objects and Classes\02. Articles\obj\Debug\net5.0\02. Articles.csproj.AssemblyReference.cache
+D:\Programing\SoftUni-Courses\Exercise-Objects and Classes\02. Articles\obj\Debug\net5.0\02. Articles.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programing\SoftUni-Courses\Exercise-Objects and Classes\02. Articles\obj\Debug\net5.0\02. Articles.AssemblyInfoInputs.cache
+D:\Programing\SoftUni-Courses\Exercise-Objects and Classes\02. Articles\obj\Debug\net5.0\02. Articles.AssemblyInfo.cs
+D:\Programing\SoftUni-Courses\Exercise-Objects and Classes\02. Articles\obj\Debug\net5.0\02. Articles.csproj.CoreCompileInputs.cache
+D:\Programing\SoftUni-Courses\Exercise-Objects and Classes\02. Articles\obj\Debug\net5.0\02. Articles.dll
+D:\Programing\SoftUni-Courses\Exercise-Objects and Classes\02. Articles\obj\Debug\net5.0\refint\02. Articles.dll
+D:\Programing\SoftUni-Courses\Exercise-Objects and Classes\02. Articles\obj\Debug\net5.0\02. Articles.pdb
+D:\Programing\SoftUni-Courses\Exercise-Objects and Classes\02. Articles\obj\Debug\net5.0\02. Articles.genruntimeconfig.cache
+D:\Programing\SoftUni-Courses\Exercise-Objects and Classes\02. Articles\obj\Debug\net5.0\ref\02. Articles.dll

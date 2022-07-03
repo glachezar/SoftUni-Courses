@@ -1,0 +1,16 @@
+D:\Programing\SoftUni-Courses\Lab-Objects and Classes\07. Vehicle Catalogue\bin\Debug\net5.0\07. Vehicle Catalogue.exe
+D:\Programing\SoftUni-Courses\Lab-Objects and Classes\07. Vehicle Catalogue\bin\Debug\net5.0\07. Vehicle Catalogue.deps.json
+D:\Programing\SoftUni-Courses\Lab-Objects and Classes\07. Vehicle Catalogue\bin\Debug\net5.0\07. Vehicle Catalogue.runtimeconfig.json
+D:\Programing\SoftUni-Courses\Lab-Objects and Classes\07. Vehicle Catalogue\bin\Debug\net5.0\07. Vehicle Catalogue.runtimeconfig.dev.json
+D:\Programing\SoftUni-Courses\Lab-Objects and Classes\07. Vehicle Catalogue\bin\Debug\net5.0\07. Vehicle Catalogue.dll
+D:\Programing\SoftUni-Courses\Lab-Objects and Classes\07. Vehicle Catalogue\bin\Debug\net5.0\07. Vehicle Catalogue.pdb
+D:\Programing\SoftUni-Courses\Lab-Objects and Classes\07. Vehicle Catalogue\obj\Debug\net5.0\07. Vehicle Catalogue.csproj.AssemblyReference.cache
+D:\Programing\SoftUni-Courses\Lab-Objects and Classes\07. Vehicle Catalogue\obj\Debug\net5.0\07. Vehicle Catalogue.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programing\SoftUni-Courses\Lab-Objects and Classes\07. Vehicle Catalogue\obj\Debug\net5.0\07. Vehicle Catalogue.AssemblyInfoInputs.cache
+D:\Programing\SoftUni-Courses\Lab-Objects and Classes\07. Vehicle Catalogue\obj\Debug\net5.0\07. Vehicle Catalogue.AssemblyInfo.cs
+D:\Programing\SoftUni-Courses\Lab-Objects and Classes\07. Vehicle Catalogue\obj\Debug\net5.0\07. Vehicle Catalogue.csproj.CoreCompileInputs.cache
+D:\Programing\SoftUni-Courses\Lab-Objects and Classes\07. Vehicle Catalogue\obj\Debug\net5.0\07. Vehicle Catalogue.dll
+D:\Programing\SoftUni-Courses\Lab-Objects and Classes\07. Vehicle Catalogue\obj\Debug\net5.0\refint\07. Vehicle Catalogue.dll
+D:\Programing\SoftUni-Courses\Lab-Objects and Classes\07. Vehicle Catalogue\obj\Debug\net5.0\07. Vehicle Catalogue.pdb
+D:\Programing\SoftUni-Courses\Lab-Objects and Classes\07. Vehicle Catalogue\obj\Debug\net5.0\07. Vehicle Catalogue.genruntimeconfig.cache
+D:\Programing\SoftUni-Courses\Lab-Objects and Classes\07. Vehicle Catalogue\obj\Debug\net5.0\ref\07. Vehicle Catalogue.dll

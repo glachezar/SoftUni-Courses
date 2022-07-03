@@ -1,0 +1,16 @@
+D:\Programing\SoftUni-Courses\Mid-Exam-Preparation\01.2. Computer Store\bin\Debug\net5.0\01.2. Computer Store.exe
+D:\Programing\SoftUni-Courses\Mid-Exam-Preparation\01.2. Computer Store\bin\Debug\net5.0\01.2. Computer Store.deps.json
+D:\Programing\SoftUni-Courses\Mid-Exam-Preparation\01.2. Computer Store\bin\Debug\net5.0\01.2. Computer Store.runtimeconfig.json
+D:\Programing\SoftUni-Courses\Mid-Exam-Preparation\01.2. Computer Store\bin\Debug\net5.0\01.2. Computer Store.runtimeconfig.dev.json
+D:\Programing\SoftUni-Courses\Mid-Exam-Preparation\01.2. Computer Store\bin\Debug\net5.0\01.2. Computer Store.dll
+D:\Programing\SoftUni-Courses\Mid-Exam-Preparation\01.2. Computer Store\bin\Debug\net5.0\01.2. Computer Store.pdb
+D:\Programing\SoftUni-Courses\Mid-Exam-Preparation\01.2. Computer Store\obj\Debug\net5.0\01.2. Computer Store.csproj.AssemblyReference.cache
+D:\Programing\SoftUni-Courses\Mid-Exam-Preparation\01.2. Computer Store\obj\Debug\net5.0\01.2. Computer Store.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programing\SoftUni-Courses\Mid-Exam-Preparation\01.2. Computer Store\obj\Debug\net5.0\01.2. Computer Store.AssemblyInfoInputs.cache
+D:\Programing\SoftUni-Courses\Mid-Exam-Preparation\01.2. Computer Store\obj\Debug\net5.0\01.2. Computer Store.AssemblyInfo.cs
+D:\Programing\SoftUni-Courses\Mid-Exam-Preparation\01.2. Computer Store\obj\Debug\net5.0\01.2. Computer Store.csproj.CoreCompileInputs.cache
+D:\Programing\SoftUni-Courses\Mid-Exam-Preparation\01.2. Computer Store\obj\Debug\net5.0\01.2. Computer Store.dll
+D:\Programing\SoftUni-Courses\Mid-Exam-Preparation\01.2. Computer Store\obj\Debug\net5.0\refint\01.2. Computer Store.dll
+D:\Programing\SoftUni-Courses\Mid-Exam-Preparation\01.2. Computer Store\obj\Debug\net5.0\01.2. Computer Store.pdb
+D:\Programing\SoftUni-Courses\Mid-Exam-Preparation\01.2. Computer Store\obj\Debug\net5.0\01.2. Computer Store.genruntimeconfig.cache
+D:\Programing\SoftUni-Courses\Mid-Exam-Preparation\01.2. Computer Store\obj\Debug\net5.0\ref\01.2. Computer Store.dll

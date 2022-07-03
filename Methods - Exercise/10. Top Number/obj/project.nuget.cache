@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "hADpbJknmZJJG0KYr3kaWligPIryvg+6To1vIlnznk7K8lOVRR1P7aF59vSiZki+aQaonQ55AjVddLiAMHn5zA==",
+  "dgSpecHash": "p0UUS8KCGlocP7AbKYZ65RDmZtQBsrsuVHvOzVtBZObMwozF2hmU96GIQqB/Mkk2Acfswp8kZ2hK/Y99haIlwA==",
   "success": true,
-  "projectFilePath": "E:\\Programing\\GitHub\\Methods - Exercise\\10. Top Number\\10. Top Number.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\Programing\\SoftUni-Courses\\Methods - Exercise\\10. Top Number\\10. Top Number.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LG\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512",
+    "C:\\Users\\LG\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\LG\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\LG\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

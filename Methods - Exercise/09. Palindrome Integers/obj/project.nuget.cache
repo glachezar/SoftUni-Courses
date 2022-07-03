@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "WPZOzyrzVjzluHDLqDuRqwbWq0/+bmxesxzah34a6JYx5g4yf+ZRgZ9B3G9yn06Y8m8X6SvpID/SJGNCq3/R+Q==",
+  "dgSpecHash": "EiJihVNm8WMLjUZR/x0OyuN3O8qnP8C0iFF5FGRtXRZt7s4JucQLVMo5W8S/yXjBTIHbgEgAkHqqZofY9Zdd2Q==",
   "success": true,
-  "projectFilePath": "E:\\Programing\\GitHub\\Methods - Exercise\\09. Palindrome Integers\\09. Palindrome Integers.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\Programing\\SoftUni-Courses\\Methods - Exercise\\09. Palindrome Integers\\09. Palindrome Integers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LG\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512",
+    "C:\\Users\\LG\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\LG\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\LG\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
